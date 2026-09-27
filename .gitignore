@@ -1,0 +1,15 @@
+.pio/
+.venv/
+src/secrets.h
+
+# Proxy
+proxy/.venv/
+proxy/__pycache__/
+proxy/**/__pycache__/
+proxy/.pytest_cache/
+proxy/.ruff_cache/
+
+# Service account keys must never be committed.
+*.json.key
+gcp_key.json
+service-account*.json

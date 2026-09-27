@@ -1,0 +1,20 @@
+[i] Znaleziono 3 spojnych handshake'ow — biore pierwszy.
+[i] ESSID=SwinkaMango24 AP=8ce5ef424c1c STA=04cf8ca8a1ae
+[i] hccapx: /tmp/pwncrack_hkqv7_lb/target.hccapx
+
+>>> Atak 2: 8 cyfr (PIN/data)
+    [-] brak trafienia
+
+>>> Atak 3: wielka+5 malych+2 cyfry
+    [-] brak trafienia
+
+>>> Atak 4: wielka+5 malych+cyfra+znak (~10 min)
+    [-] brak trafienia
+
+>>> Atak 5: 8 znakow alfanum (dlugo)
+    [-] brak trafienia
+
+============================================================
+[-] Nie zlamano w uruchomionych atakach.
+    Haslo jest odporne na typowe wzorce — to dobry znak.
+============================================================
